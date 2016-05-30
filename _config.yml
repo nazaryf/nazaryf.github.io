@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            Nazar
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http://nazaryf.github.io
 
 
 # Jekyll configuration
@@ -27,21 +27,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: Nazarudin Yusuf
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
   disqus-shortname: 
-  twitter: jazma101 #username
-  facebook: deactivate.py #username
+  twitter:  #username
+  facebook: nazriel_3@yahoo.co.id #username
   google:
-    plus: kampar #username
+    plus: nazaryf33@gmail.com #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: nazaryf #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
